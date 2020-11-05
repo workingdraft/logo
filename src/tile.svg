@@ -17,8 +17,8 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="tile.svg"
    inkscape:export-filename="/home/peter/Brainfire/public_html/OpenSource/wd-logo/tile.png"
-   inkscape:export-xdpi="170.66667"
-   inkscape:export-ydpi="170.66667">
+   inkscape:export-xdpi="666.66669"
+   inkscape:export-ydpi="666.66669">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="192.3021"
-     inkscape:cy="168.74046"
+     inkscape:cx="-8.0550429"
+     inkscape:cy="165.88332"
      inkscape:document-units="px"
      inkscape:current-layer="flowRoot4151-7-6-2"
      showgrid="true"
@@ -44,9 +44,9 @@
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="1920"
+     inkscape:window-width="1024"
+     inkscape:window-height="1243"
+     inkscape:window-x="3840"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showborder="true"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -239,17 +239,7 @@
          style="fill:#8e0967;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       aria-label="&lt;header&gt;
-  &lt;h1&gt;
-    &lt;a href=&quot;https://workingdraft.de&quot;&gt;
-      Working Draft
-    &lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p&gt;
-    Wöchentlicher News-Podcast für
-    Webdesigner und -entwickler
-  &lt;/p&gt;
-&lt;/header&gt;"
+       aria-label="&lt;header&gt;   &lt;h1&gt;     &lt;a href=&quot;https://workingdraft.de&quot;&gt;       Working Draft     &lt;/a&gt;   &lt;/h1&gt;   &lt;p&gt;     Wöchentlicher News-Podcast für     Webdesigner und -entwickler   &lt;/p&gt; &lt;/header&gt;"
        transform="translate(773.76983,1358.3403)"
        style="font-style:normal;font-weight:normal;font-size:22.66666603px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#fcd2f0;fill-opacity:1;stroke:none"
        id="flowRoot1396">
@@ -966,8 +956,7 @@
        rx="8.8888893"
        ry="8.8888865" />
     <g
-       aria-label="Working
-Draft"
+       aria-label="Working Draft"
        transform="translate(-1055.2079,950.38199)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4151-7-6-2-3">
@@ -992,8 +981,7 @@ Draft"
       </g>
     </g>
     <g
-       aria-label="Working
-Draft"
+       aria-label="Working Draft"
        transform="translate(-1069.9015,957.65439)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#8f0968;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4151-7-6-2">
@@ -1054,5 +1042,5 @@ Draft"
            x="8"
            y="8"
            style="-inkscape-font-specification:'Ubuntu Mono';font-family:'Ubuntu Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara1394"></flowPara></flowRoot>  </g>
+         id="flowPara1394" /></flowRoot>  </g>
 </svg>
